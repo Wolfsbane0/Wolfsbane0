@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="1000" src="https://preview.redd.it/a3ftzqi7ide71.png?auto=webp&s=7cc4389f7b7d621216c70cc9f1d43e57f76e3d0d"  />
+  <img width="100%" src="https://preview.redd.it/a3ftzqi7ide71.png?auto=webp&s=7cc4389f7b7d621216c70cc9f1d43e57f76e3d0d"  />
 </div>
 
 ###
@@ -22,8 +22,6 @@
 <p align="left">🔭 I’m currently working on A Computer Vision project(PS: It's a secret!!! Shhhhh!)<br><br>🌱 I’m currently learning C#, and revisiting Python<br><br>👯 I’m looking to collaborate on anything math and python<br><br>🤝 I’m looking for help with IoT and AI & ML<br><br>💬 Ask me about Math, Python. But never ask me about C!!!<br><br>📫 How to reach me sinhakunal9153@gmail.com<br><br>⚡Fun Fact : I rendered an image of the Mandelbrot Fractal in 16k. (It took 4 hours to render!!)</p>
 
 ###
-
-<br clear="both">
 
 <br clear="both">
 
@@ -79,12 +77,24 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/Wolfsbane0/Wolfsbane0/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Wolfsbane0/count.svg?"  />
 </div>
 
 ###
